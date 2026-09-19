@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Forma | Roupas Fitness de Luxo",
+  "description": "Landing page exclusiva da Atelier Forma: alta-costura esportiva, tecidos tecnológicos italianos e silhuetas esculturais para treino de alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
